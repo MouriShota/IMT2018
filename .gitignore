@@ -33,7 +33,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-ProjectSettings/ProjectSettings.asset
-Library/AssetImportState
-Library/EditorUserBuildSetting.asset
-Library/shadercompiler-UnityShaderCompiler.exe0.log
+[Pp]rojectSettings/ProjectSettings.asset
+[Ll]ibrary/AssetImportState
+[Ll]ibrary/EditorUserBuildSetting.asset
+[Ll]ibrary/shadercompiler-UnityShaderCompiler.exe0.log
+[Ll]ibrary/CurrentLayout.dwlt
